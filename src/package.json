@@ -1,0 +1,22 @@
+{
+  "name": "smart-home-dummy-skill",
+  "version": "0.0.1",
+  "description": "this skill adds dummy smart home devices to the alexa device list to execute other non-smart-home functions through alexa routines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nixer89/SmartHomeDummySkill.git"
+  },
+  "author": "Daniel Siedentopf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nixer89/SmartHomeDummySkill/issues"
+  },
+  "homepage": "https://github.com/nixer89/SmartHomeDummySkill#readme",
+  "dependencies": {
+    "dynasty": "^0.2.8"
+  }
+}
